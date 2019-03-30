@@ -1,0 +1,22 @@
+/*
+See LICENSE folder for this template’s licensing information.
+
+Abstract:
+Contains English localizations of values in Manifest.plist files in the playground book.
+*/
+
+/* The localized name of the playground book. */
+"PlaygroundBookName" = "Color is Life";
+
+/* The localized name of the first chapter in the playground book. */
+"ChapterOneName" = "Exploring Particles";
+"ChapterTwoName" = "Enjoy Your Knoledge";
+
+/* The localized name of the first page in the first chapter in the playground book. */
+"ChapterOnePageOneName" = "Introduction";
+"ChapterOnePageTwoName" = "Strong Friendship";
+"ChapterOnePageThreeName" = "Act Time!";
+
+"ChapterTwoPageOneName" = "Core Invaders";
+"ChapterTwoPageTwoName" = "Save the BQuark";
+"ChapterTwoPageThreeName" = "Conclusion";
